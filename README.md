@@ -43,9 +43,3 @@ Jarbin creates a temp directory, containing your project.clj and the script. Due
 
 lein-jartask. Very similar, but runs lein tasks, rather than scripts
 
-## License
-
-Copyright © 2014 CircleCI
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
